@@ -1,6 +1,6 @@
 # CodSoft Data Science Internship (May 2025)
 
-Welcome to my internship repository! This repo contains the work and learnings from my 4-week virtual Data Science internship with **CodSoft** (May 1 – May 31, 2025).
+Welcome to my internship repository!! This repo contains the work and learnings from my 4-week virtual Data Science internship with **CodSoft** (May 1 – May 31, 2025).
 
 ## 🧠 What This Internship Gave Me
 This internship was more than just task completion — it was a journey in:
